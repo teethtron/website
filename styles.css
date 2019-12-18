@@ -1,0 +1,76 @@
+:root {
+  background: black;
+  color: black;
+}
+
+h1 {
+	padding: 30px;
+	color: white;
+	background: black;
+	font-family: "Lucida Console", Monaco, monospace;
+}
+
+h4 {
+	color: white;
+	font-family: "Lucida Console", Monaco, monospace;
+}
+
+body, div {
+	background: #000;
+	height: 100%
+	color: #000;
+	background: black;
+}
+
+img {
+	width: 300px;
+	height: 300px;
+	background-color: #000;
+}
+
+button {
+	color: black;
+	background-color: black;
+	border: none;
+	outline: none;
+}
+
+input {
+	color: black;
+	background-color: black;
+	border: none;
+	outline: none;
+	height: 50px;
+	width: 50px;
+	padding: 20px;
+}
+.about {
+	color: white;
+	background: black;
+	font-family: "Lucida Console", Monaco, monospace;
+	font-size: 20px;
+	margin-left: 40px;
+}
+
+.icon {
+	height: 100px;
+	width: 100px;
+}
+
+.nav {
+	height: 100px;
+	width: 100px;
+}
+
+.link:hover {
+	color: black;
+	background :black;
+}
+
+.aboutheader {
+	color: white;
+	background: black;
+	font-family: "Lucida Console", Monaco, monospace;
+	padding: 40px;
+	margin: 0px;
+}
